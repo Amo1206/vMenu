@@ -10,3 +10,6 @@ vMenu 中文版 by阿默
 start vMenu
 exec permissions.cfg
 ```
+
+#YouTubg
+- https://www.youtube.com/channel/UCeLKIq3ULApN3Q8_VKl90lg?view_as=subscriber
